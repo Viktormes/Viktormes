@@ -1,3 +1,13 @@
+<div align="center" id="badges">
+  <a href="www.linkedin.com/in/viktor-hägglund-a95646236">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   <a href="vikhag0722@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+
+
 <div align="center">
 <h1>
   Hello!
