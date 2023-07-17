@@ -10,7 +10,7 @@
 
 <div align="center">
 <h1>
-  Hello!
+  Hello! I'm Viktor Hägglund
 </h1>
 </div>
 
