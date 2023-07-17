@@ -34,5 +34,5 @@ I'm a Java Developer student <a href=https://www.iths.se/>@IT-Högskolan</a>
 
 ---
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=viktormes&style=flat-square&color=red" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=viktormes&style=flat-square&color=blueviolet" alt=""/>
 </div>
