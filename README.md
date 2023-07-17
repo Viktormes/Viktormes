@@ -10,7 +10,7 @@
 
 <div align="center">
 <h1>
-  Hello! :wave:
+  Hello!
 </h1>
 </div>
 
